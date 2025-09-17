@@ -1,0 +1,18 @@
+# Core data science libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Natural language processing (optional, for word frequency)
+nltk
+
+# Web app
+streamlit
+
+# Notebook support
+notebook
+jupyter
